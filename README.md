@@ -4,4 +4,5 @@
 # 运行环境
 python3.6 + pytorch==1.0.1 + pytorch-pretrained-bert==0.6.2
 
-# 运行结果
+# 运行命令
+cd code; CUDA_VISIBLE_DEVICES=0 python  train_v2.py
