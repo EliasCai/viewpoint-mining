@@ -10,3 +10,7 @@ cd code; CUDA_VISIBLE_DEVICES=0 python  train_v2.py
 
 ### 比赛链接
 [电商评论观点挖掘-天池大赛-阿里云天池](https://tianchi.aliyun.com/competition/entrance/231731/ )
+
+### TODO
+1. 数据增强
+2. 多网络融合
